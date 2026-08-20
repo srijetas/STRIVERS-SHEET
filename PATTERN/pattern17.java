@@ -22,3 +22,11 @@ class Solution {
         }
     }
 }
+
+
+OUTPUT:
+    A
+   ABA
+  ABCBA
+ ABCDCBA
+ABCDEDCBA
