@@ -11,3 +11,12 @@ class Solution {
         }
     }
 }
+
+
+OUTPUT:
+
+A
+BB
+CCC
+DDDD
+EEEEE
