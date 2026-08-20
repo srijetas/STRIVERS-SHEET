@@ -1,0 +1,17 @@
+class Solution {
+    public static void main() {
+        int n=5;
+        int m=3;
+        for(int row=1;row<=n;row++){
+            for(int col=1;col<=m;col++){
+                System.out.print("*");
+            }
+            System.out.println();
+        } 
+    }
+
+OUTPUT:
+
+*****
+*****
+*****
